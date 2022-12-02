@@ -63,10 +63,10 @@
 
 
     <Button
-        android:id="@+id/btn_signup"
+        android:id="@+id/btn_sign_in"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sign Up"
+        android:text="Sign In"
         android:textAllCaps="false"
         android:backgroundTint="#316DAF"
         android:padding="16dp"
