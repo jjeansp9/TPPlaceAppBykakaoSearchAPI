@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669182906297",
+    "project_id": "placeappbykakaojspstudio",
+    "storage_bucket": "placeappbykakaojspstudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669182906297:android:7cc7800682a3cbc3aef068",
+        "android_client_info": {
+          "package_name": "com.jspstudio.tpplaceappbykakaosearchapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669182906297-asd3jb4kg9uecol5ejpd9en7vr4r6pbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6yBGFQ9fHK0Q6P-tUSwUbVcMWZoDC2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669182906297-asd3jb4kg9uecol5ejpd9en7vr4r6pbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

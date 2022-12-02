@@ -52,27 +52,27 @@
         android:id="@+id/layout_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:background="@drawable/bg_login_tv"
         android:layout_above="@id/tv_signup"
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp"
         android:layout_marginBottom="16dp"
+        android:background="@drawable/bg_login_tv"
+        android:gravity="center"
+        android:orientation="horizontal"
         android:paddingTop="8dp"
-        android:paddingBottom="8dp"
-        android:gravity="center">
+        android:paddingBottom="8dp">
 
         <ImageView
             android:layout_width="16dp"
             android:layout_height="16dp"
-            android:src="@drawable/ic_baseline_email_24"/>
+            android:src="@drawable/ic_baseline_email_24" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
             android:text="이메일로 로그인"
-            android:textColor="@color/black"
-            android:layout_marginLeft="8dp"/>
+            android:textColor="@color/black" />
 
     </LinearLayout>
 
