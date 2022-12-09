@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "669182906297-65oqsd9j57djde4i9fnjdqrkf0p6ddg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jspstudio.tpplaceappbykakaosearchapi",
+            "certificate_hash": "f23448342da3574001fd965c1e1f2ea5a6ca13f7"
+          }
+        },
+        {
           "client_id": "669182906297-asd3jb4kg9uecol5ejpd9en7vr4r6pbg.apps.googleusercontent.com",
           "client_type": 3
         }

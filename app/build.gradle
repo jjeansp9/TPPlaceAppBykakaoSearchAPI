@@ -47,8 +47,13 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
 
+    implementation "com.kakao.sdk:v2-user:2.11.2" // 카카오 로그인
+    implementation 'com.google.android.gms:play-services-auth:20.4.0' // 구글 로그인 SDK 라이브러리
+
     // 파이어베이스 사용을 위한 라이브러리
     implementation platform('com.google.firebase:firebase-bom:31.1.0')
+
+
 
     // Firebase products SDK
     implementation 'com.google.firebase:firebase-firestore-ktx' // Cloud FireStore Database for kotlin
