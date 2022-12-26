@@ -42,7 +42,6 @@ class LoginActivity : AppCompatActivity() {
         binding.tvGo.setOnClickListener {
             startActivity(Intent(this, MainActivity::class.java))
             finish()
-            Toast.makeText(this, "d", Toast.LENGTH_SHORT).show()
         }
 
         // 회원가입 버튼 클릭
